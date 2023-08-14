@@ -5,10 +5,16 @@ This script is writen by using wallheaven.cc API v1.
 
 Python 3.8 or higher.
 
-Before using this scripr please install python labrary requests by command:
+Before using this scripr please install python labrarys by command:
 
 ```
-pip install requests
+pip install requests clint
+```
+
+Or use poetry to install all dependencies thats neded by one command: 
+
+```
+poetry install
 ```
 
 ## Instalation
