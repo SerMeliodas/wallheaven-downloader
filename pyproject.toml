@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "walldownloader"
+version = "0.1.1"
+description = "A script thats download a wallpapers by search query from wallheaven.cc using wallheaven API v1"
+authors = ["SerMeliodas <oliver9574@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+clint = "^0.5.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
