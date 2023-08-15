@@ -8,7 +8,7 @@ Python 3.8 or higher.
 Before using this scripr please install python labrarys by command:
 
 ```
-pip install requests clint
+pip install -r req.txt
 ```
 
 Or use poetry to install all dependencies thats neded by one command: 
