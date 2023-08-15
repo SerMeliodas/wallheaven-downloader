@@ -1,11 +1,14 @@
 # Wallheaven.cc download python script
 This script is writen by using wallheaven.cc API v1.
 
-## Dependencies
+
+## Instalation
+
+### Dependencies
 
 Python 3.8 or higher.
 
-Before using this scripr please install python labrarys by command:
+Before using this script please install python libraries by command:
 
 ```
 pip install -r req.txt
@@ -17,8 +20,7 @@ Or use poetry to install all dependencies thats neded by one command:
 poetry install
 ```
 
-## Instalation
-
+### Install using git clone
 ```
 git clone https://github.com/SerMeliodas/wallheaven-downloader
 ```
