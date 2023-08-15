@@ -34,3 +34,9 @@ Just using it like a normal python script with search argument:
 ```
 py walldownloader.py some_query_for_search
 ```
+
+For additionl information:
+
+```
+py walldownloader.py -help
+```
