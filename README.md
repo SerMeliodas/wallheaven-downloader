@@ -1,5 +1,5 @@
 # Wallheaven.cc download python script
-This script is writen by using wallheaven.cc API v1.
+This script is written by using wallheaven.cc API v1.
 
 
 ## Instalation
@@ -14,7 +14,7 @@ Before using this script please install python libraries by command:
 pip install -r req.txt
 ```
 
-Or use poetry to install all dependencies thats neded by one command: 
+Or use poetry to install all dependencies that's needed by one command: 
 
 ```
 poetry install
@@ -35,7 +35,7 @@ Just using it like a normal python script with search argument:
 py walldownloader.py some_query_for_search
 ```
 
-For additionl information:
+For additional information:
 
 ```
 py walldownloader.py -help
